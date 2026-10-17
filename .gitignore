@@ -1,0 +1,10 @@
+build/
+target/
+.idea/
+*.iml
+*.class
+.venv/
+__pycache__/
+.DS_Store
+tmp/
+dist/

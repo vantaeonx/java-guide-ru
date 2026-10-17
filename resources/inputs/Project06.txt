@@ -1,0 +1,8 @@
+add stone 4
+add apple 3
+list
+save
+take stone 2
+load
+list
+exit

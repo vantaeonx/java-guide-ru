@@ -1,0 +1,6 @@
+add 10
+add -2
+stats
+clear
+stats
+exit
